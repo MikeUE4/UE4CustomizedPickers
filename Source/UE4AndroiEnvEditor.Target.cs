@@ -9,6 +9,7 @@ public class UE4AndroiEnvEditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
+  
 		ExtraModuleNames.AddRange( new string[] { "UE4AndroiEnv" } );
 	}
 }
