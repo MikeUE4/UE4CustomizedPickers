@@ -4,7 +4,7 @@ Change the $YourPackageName in .uml file to your PackageName.R
 for exmaple if your package name is com.sample.project then replace  $YourPackageName with com.sample.project.R
 ![C__UE4AndroiEnv_Plugins_RearAndroid_Source_RearAndroid_RearAndroid_UPL_Android xml - Notepad++ 10_3_2021 7_14_07 PM](https://user-images.githubusercontent.com/37648290/135767177-efc61b7c-3c76-4550-9bc9-7b71b47ab26a.png)
 
-To access ANDROID CAMERAX API for APi>24 add PERMISSION .Do not bother to ask for persmission as it is already handled by the Plugin.
+To access ANDROID CAMERAX API for APi>24 add PERMISSION .Do not bother to ask for persmission as it is already handled by the Plugin. 
 
 To access ANDROID GPS API for APi>22 add PERMISSION .Do not bother to ask for persmission as it is already handled by the Plugin.
 
